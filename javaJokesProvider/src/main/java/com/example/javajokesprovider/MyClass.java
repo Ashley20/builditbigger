@@ -1,7 +1,9 @@
 package com.example.javajokesprovider;
 
+import java.util.ArrayList;
+
 public class MyClass {
-    public String provideJoke(){
-        return "joke from the lib";
+    public String getJoke(){
+        return "joke from the lib ahhaha";
     }
 }
